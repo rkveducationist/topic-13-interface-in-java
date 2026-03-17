@@ -312,7 +312,7 @@ let y = 20
 
 // Title
 doc.setFontSize(16)
-doc.text("Java: Data Types - Quiz and Programming Test Result", 20, y)
+doc.text("Java: Interface - Quiz and Programming Test Result", 20, y)
 
 y += 10
 
